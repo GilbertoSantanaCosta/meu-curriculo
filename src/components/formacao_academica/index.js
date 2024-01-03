@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, Title } from 'rbx';
-import "rbx/index.css";
+
 
 const FormacaoAcademica = () => {
 
